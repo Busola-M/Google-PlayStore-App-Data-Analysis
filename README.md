@@ -8,14 +8,14 @@
 
 - The dataset I used for this exploration was web scrapped by from Google PlayStore analytics by Lavanya Gupta in 2018. This data was provided by companies like Annie or Sensor Tower, which helps to drive development and App marketing strategies to succeed for many companies.
 
+#### Data Source:
+The App and review data was scrapped from the Google PlayStore by Lavanya Gupta in 2018. The original files are listed [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
+
 #### Data Wrangling Steps:
 
 1. Remove unused columns, NaN values and Duplicates.
 2. Remove unwanted symbols and convert data into numeric format.
 2. Wrangle columns containing nested data with Pandas.
-
-#### Data Source:
-The App and review data was scrapped from the Google PlayStore by Lavanya Gupta in 2018. The original files are listed [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
 
 ## Summary of Findings
 
