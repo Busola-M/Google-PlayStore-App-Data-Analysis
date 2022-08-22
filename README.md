@@ -13,9 +13,9 @@ The App and review data was scrapped from the Google PlayStore by Lavanya Gupta 
 
 #### Data Wrangling Steps:
 
-1. Remove unused columns, NaN values and Duplicates.
-2. Remove unwanted symbols and convert data into numeric format.
-2. Wrangle columns containing nested data with Pandas.
+- Removed unused columns, NaN values and duplicates.
+- Removed unwanted symbols and converted data into numeric format.
+- Wrangled columns containing nested data using Pandas.
 
 ## Summary of Findings
 
